@@ -29,5 +29,8 @@ Employee Management System
 │   └── rs2xml.jar
 └── JDK 24 (Default)
 I have also used mysql workbench for the database and that sql query code is in the employee database.
+![image](https://github.com/user-attachments/assets/a5180f41-3d93-4e30-acd4-a1813f679fcc)
+![image](https://github.com/user-attachments/assets/5b39db21-868e-42c1-b893-55ff014193b0)
+
 
 
